@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "React",
+    "category": "Frontend",
+    "icon": "react"
+  },
+  {
+    "id": 2,
+    "name": "JavaScript",
+    "category": "Frontend",
+    "icon": "javascript"
+  },
+  {
+    "id": 3,
+    "name": "HTML",
+    "category": "Frontend",
+    "icon": "html"
+  },
+  {
+    "id": 4,
+    "name": "CSS",
+    "category": "Frontend",
+    "icon": "css"
+  },
+  {
+    "id": 5,
+    "name": "Node.js",
+    "category": "Backend",
+    "icon": "node"
+  },
+  {
+    "id": 6,
+    "name": "Python",
+    "category": "Backend",
+    "icon": "python"
+  },
+  {
+    "id": 7,
+    "name": "MongoDB",
+    "category": "Database",
+    "icon": "mongodb"
+  },
+  {
+    "id": 8,
+    "name": "MySQL",
+    "category": "Database",
+    "icon": "mysql"
+  },
+  {
+    "id": 9,
+    "name": "Git",
+    "category": "Tools",
+    "icon": "git"
+  },
+  {
+    "id": 10,
+    "name": "GitHub",
+    "category": "Tools",
+    "icon": "github"
+  }
+]
