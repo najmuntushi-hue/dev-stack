@@ -1,62 +1,122 @@
 [
   {
-    "id": 1,
+    "id": "react",
     "name": "React",
     "category": "Frontend",
-    "icon": "react"
+    "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
+    "icon": "https://icon.icepanel.io/Technology/svg/React.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Popular"
   },
   {
-    "id": 2,
-    "name": "JavaScript",
+    "id": "vue",
+    "name": "Vue.js",
     "category": "Frontend",
-    "icon": "javascript"
+    "description": "An approachable, performant, and versatile framework for building web user interfaces.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Vue.js.svg",
+    "rating": 4.8,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Versatile"
   },
   {
-    "id": 3,
-    "name": "HTML",
+    "id": "svelte",
+    "name": "Svelte",
     "category": "Frontend",
-    "icon": "html"
+    "description": "Cybernetically enhanced web apps with compile-time reactivity and zero virtual DOM overhead.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Svelte.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Fast"
   },
   {
-    "id": 4,
-    "name": "CSS",
+    "id": "next",
+    "name": "Next.js",
     "category": "Frontend",
-    "icon": "css"
+    "description": "The React framework for full-stack web applications with hybrid static & server rendering.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Next.js.svg",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Modern"
   },
   {
-    "id": 5,
+    "id": "node",
     "name": "Node.js",
     "category": "Backend",
-    "icon": "node"
+    "description": "An asynchronous event-driven JavaScript runtime built on Chrome's V8 engine.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Node.js.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Standard"
   },
   {
-    "id": 6,
-    "name": "Python",
-    "category": "Backend",
-    "icon": "python"
-  },
-  {
-    "id": 7,
-    "name": "MongoDB",
+    "id": "postgres",
+    "name": "PostgreSQL",
     "category": "Database",
-    "icon": "mongodb"
+    "description": "A powerful, open-source object-relational database system with proven reliability.",
+    "icon": "https://icon.icepanel.io/Technology/svg/PostgresSQL.svg",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Top SQL"
   },
   {
-    "id": 8,
-    "name": "MySQL",
+    "id": "redis",
+    "name": "Redis",
     "category": "Database",
-    "icon": "mysql"
+    "description": "In-memory data structure store used as a high-speed database, cache, and message broker.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Redis.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Cache"
   },
   {
-    "id": 9,
-    "name": "Git",
-    "category": "Tools",
-    "icon": "git"
+    "id": "javascript",
+    "name": "JavaScript",
+    "category": "Language",
+    "description": "The versatile, ubiquitous scripting language powering dynamic behavior across the web.",
+    "icon": "https://icon.icepanel.io/Technology/svg/JavaScript.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Ubiquitous"
   },
   {
-    "id": 10,
-    "name": "GitHub",
-    "category": "Tools",
-    "icon": "github"
+    "id": "typescript",
+    "name": "TypeScript",
+    "category": "Language",
+    "description": "A strongly typed programming language that builds on JavaScript for robust tooling.",
+    "icon": "https://icon.icepanel.io/Technology/svg/TypeScript.svg",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Essential"
+  },
+  {
+    "id": "java",
+    "name": "Java",
+    "category": "Language",
+    "description": "A secure, object-oriented programming language designed for portability and scale.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Java.svg",
+    "rating": 4.6,
+    "difficulty": "Intermediate",
+    "badge": "Robust"
+  },
+  {
+    "id": "tailwind",
+    "name": "Tailwind CSS",
+    "category": "Styling",
+    "description": "A utility-first CSS framework packed with classes that can be composed to build custom UI.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Modern"
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "category": "DevOps",
+    "description": "A platform designed to build, share, and run containerized applications reliably.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Docker.svg",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Containers"
   }
 ]
